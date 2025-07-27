@@ -1,0 +1,1 @@
+{"email":"test-purephp@mailinator.com","password":"admin"}
